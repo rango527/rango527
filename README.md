@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 As a professional with 10 years of experience, I have been working as a Senior Full Stack developer🌱, and have honed my skills in Javascript, Typescript, HTML, CSS, and various frameworks and libraries.
+
+💬 Ask me about to ncao9127@gmail.com / +19073316547
+
 <!--
 **rango527/rango527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
